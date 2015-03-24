@@ -1,0 +1,10 @@
+{
+  "name":"chatroot",
+  "version":"0.0.1",
+  "description":"this is a noodjs lesson",
+  "dependencies":{
+    "socket.io":"~1.3.5",
+    "mime":"~1.2.7"
+  }
+
+}
